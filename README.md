@@ -1,0 +1,1 @@
+Image Captioning Project. Uses LSTM, CNN and Attention mechanism.
